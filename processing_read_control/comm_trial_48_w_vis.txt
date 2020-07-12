@@ -1,0 +1,2542 @@
+2322 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2368 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+2495 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2546 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+2671 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2751 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+2851 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2932 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3031 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3106 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3204 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3287 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3411 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3462 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3586 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3634 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3760 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3835 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+3838 : Control F
+3941 : LDir: CCW | LCount: -1 | RDir:  | RCount: 0
+
+4022 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+4136 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 4
+
+4195 : S1: 0.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 33.00 cm
+
+4263 : Control F
+4312 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+4312 : Control F
+4362 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 34.00 cm
+
+4363 : Control F
+4363 : Control F
+4381 : Control F
+4414 : Control F
+4448 : Control F
+4493 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 4
+
+4545 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 37.00 cm
+
+4545 : Control F
+4545 : Control F
+4545 : Control F
+4563 : Control F
+4596 : Control F
+4630 : Control F
+4678 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+4734 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 50.00 cm
+
+4734 : Control F
+4734 : Control F
+4734 : Control F
+4752 : Control F
+4786 : Control F
+4820 : Control F
+4867 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+4914 : S1: 0.00 cm | S2: 33.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+4914 : Control F
+4914 : Control F
+4914 : Control F
+4932 : Control F
+4965 : Control F
+4999 : Control F
+5053 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+5104 : S1: 0.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 42.00 cm
+
+5105 : Control F
+5105 : Control F
+5105 : Control F
+5123 : Control F
+5157 : Control F
+5215 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+5272 : S1: 0.00 cm | S2: 31.00 cm | S3: 0.00 cm | S4: 44.00 cm
+
+5273 : Control F
+5273 : Control F
+5273 : Control F
+5273 : Control F
+5307 : Control F
+5324 : Control F
+5358 : Control F
+5409 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+5452 : S1: 0.00 cm | S2: 28.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+5452 : Control F
+5452 : Control F
+5452 : Control F
+5487 : Control F
+5521 : Control F
+5599 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+5648 : S1: 0.00 cm | S2: 27.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5649 : Control F
+5649 : Control F
+5649 : Control F
+5649 : Control F
+5667 : Control F
+5700 : Control F
+5784 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+5829 : S1: 0.00 cm | S2: 25.00 cm | S3: 0.00 cm | S4: 73.00 cm
+
+5829 : Control F
+5829 : Control F
+5829 : Control F
+5829 : Control F
+5941 : LDir: CW | LCount: -4 | RDir: CW | RCount: 6
+
+6016 : S1: 0.00 cm | S2: 23.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6119 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+6200 : S1: 0.00 cm | S2: 22.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6299 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+6375 : S1: 0.00 cm | S2: 22.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6470 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+6554 : S1: 0.00 cm | S2: 21.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6605 : Control R
+6656 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+6740 : S1: 0.00 cm | S2: 22.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6843 : LDir: CW | LCount: 3 | RDir: CW | RCount: 4
+
+6924 : S1: 0.00 cm | S2: 19.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7026 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+7106 : S1: 92.00 cm | S2: 16.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7106 : Control R
+7124 : Control R
+7157 : Control R
+7232 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+7279 : S1: 90.00 cm | S2: 17.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7280 : Control R
+7280 : Control R
+7280 : Control R
+7280 : Control R
+7314 : Control R
+7331 : Control R
+7412 : LDir: CW | LCount: 2 | RDir: CW | RCount: 2
+
+7461 : S1: 92.00 cm | S2: 16.00 cm | S3: 0.00 cm | S4: 58.00 cm
+
+7462 : Control R
+7462 : Control R
+7462 : Control R
+7462 : Control R
+7497 : Control R
+7585 : LDir: CW | LCount: 3 | RDir: CW | RCount: 4
+
+7638 : S1: 88.00 cm | S2: 15.00 cm | S3: 0.00 cm | S4: 59.00 cm
+
+7780 : LDir: CW | LCount: 4 | RDir: CW | RCount: 4
+
+7832 : S1: 95.00 cm | S2: 16.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+7934 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+7996 : S1: 0.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 70.00 cm
+
+8119 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+8172 : S1: 0.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+8302 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+8302 : Control R
+8354 : S1: 0.00 cm | S2: 17.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+8498 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+8544 : S1: 0.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 73.00 cm
+
+8668 : LDir: CCW | LCount: -1 | RDir:  | RCount: 0
+
+8716 : S1: 0.00 cm | S2: 19.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+8838 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+8922 : S1: 0.00 cm | S2: 20.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+9027 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+9079 : S1: 0.00 cm | S2: 20.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+9131 : Control F
+9220 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+9265 : S1: 0.00 cm | S2: 20.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+9399 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 1
+
+9447 : S1: 0.00 cm | S2: 19.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+9573 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+9634 : S1: 98.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+9634 : Control F
+9668 : Control F
+9685 : Control F
+9718 : Control F
+9764 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+9812 : S1: 100.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+9812 : Control F
+9813 : Control F
+9813 : Control F
+9847 : Control F
+9880 : Control F
+9933 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+9987 : S1: 98.00 cm | S2: 18.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+9988 : Control F
+9988 : Control F
+9988 : Control F
+9988 : Control F
+10022 : Control F
+10056 : Control F
+10134 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 5
+
+10185 : S1: 96.00 cm | S2: 20.00 cm | S3: 0.00 cm | S4: 57.00 cm
+
+10185 : Control F
+10185 : Control F
+10185 : Control F
+10185 : Control F
+10203 : Control F
+10237 : Control F
+10312 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+10355 : S1: 93.00 cm | S2: 22.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+10356 : Control F
+10356 : Control F
+10356 : Control F
+10356 : Control F
+10390 : Control F
+10423 : Control F
+10473 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 4
+
+10552 : S1: 90.00 cm | S2: 25.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+10552 : Control F
+10552 : Control F
+10552 : Control F
+10552 : Control F
+10570 : Control F
+10604 : Control F
+10655 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 6
+
+10743 : S1: 83.00 cm | S2: 27.00 cm | S3: 0.00 cm | S4: 50.00 cm
+
+10744 : Control F
+10744 : Control F
+10744 : Control F
+10744 : Control F
+10745 : Control F
+10779 : Control F
+10859 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 6
+
+10911 : S1: 81.00 cm | S2: 29.00 cm | S3: 0.00 cm | S4: 50.00 cm
+
+10911 : Control F
+10911 : Control F
+10911 : Control F
+10911 : Control F
+10929 : Control F
+10962 : Control F
+11044 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+11088 : S1: 74.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 51.00 cm
+
+11088 : Control F
+11088 : Control F
+11088 : Control F
+11088 : Control F
+11123 : Control F
+11155 : Control F
+11197 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 6
+
+11281 : S1: 72.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+11282 : Control F
+11282 : Control F
+11282 : Control F
+11282 : Control F
+11299 : Control F
+11333 : Control F
+11379 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 6
+
+11462 : S1: 69.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+11463 : Control F
+11463 : Control F
+11463 : Control F
+11463 : Control F
+11481 : Control F
+11514 : Control F
+11564 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 3
+
+11628 : S1: 62.00 cm | S2: 100.00 cm | S3: 0.00 cm | S4: 95.00 cm
+
+11629 : Control F
+11629 : Control F
+11629 : Control F
+11629 : Control F
+11664 : Control F
+11697 : Control F
+11772 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+11817 : S1: 73.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 88.00 cm
+
+11818 : Control F
+11818 : Control F
+11818 : Control F
+11818 : Control F
+11936 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+12017 : S1: 50.00 cm | S2: 100.00 cm | S3: 98.00 cm | S4: 89.00 cm
+
+12116 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+12176 : S1: 79.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 95.00 cm
+
+12302 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 1
+
+12346 : S1: 53.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12346 : Control B
+12470 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+12551 : S1: 52.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12656 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -4
+
+12733 : S1: 54.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 96.00 cm
+
+12784 : Control B
+12840 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+12915 : S1: 57.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 96.00 cm
+
+12915 : Control B
+12915 : Control B
+12915 : Control B
+12916 : Control B
+12950 : Control B
+12967 : Control B
+13016 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -2
+
+13071 : S1: 55.00 cm | S2: 0.00 cm | S3: 97.00 cm | S4: 0.00 cm
+
+13071 : Control B
+13071 : Control B
+13071 : Control B
+13089 : Control B
+13122 : Control B
+13156 : Control B
+13198 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+13279 : S1: 45.00 cm | S2: 100.00 cm | S3: 93.00 cm | S4: 87.00 cm
+
+13279 : Control B
+13279 : Control B
+13279 : Control B
+13279 : Control B
+13314 : Control B
+13331 : Control B
+13385 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+13433 : S1: 50.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 87.00 cm
+
+13434 : Control B
+13434 : Control B
+13434 : Control B
+13451 : Control B
+13485 : Control B
+13519 : Control B
+13565 : LDir: CCW | LCount: 4 | RDir: CCW | RCount: -7
+
+13617 : S1: 55.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 90.00 cm
+
+13617 : Control B
+13617 : Control B
+13617 : Control B
+13635 : Control B
+13669 : Control B
+13702 : Control B
+13745 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -6
+
+13796 : S1: 61.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 92.00 cm
+
+13796 : Control B
+13796 : Control B
+13796 : Control B
+13814 : Control B
+13847 : Control B
+13881 : Control B
+13924 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+14000 : S1: 68.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 56.00 cm
+
+14001 : Control B
+14001 : Control B
+14001 : Control B
+14001 : Control B
+14035 : Control B
+14052 : Control B
+14103 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+14182 : S1: 70.00 cm | S2: 40.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+14183 : Control B
+14183 : Control B
+14183 : Control B
+14183 : Control B
+14217 : Control B
+14235 : Control B
+14284 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -5
+
+14366 : S1: 77.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 41.00 cm
+
+14466 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -6
+
+14544 : S1: 84.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 91.00 cm
+
+14644 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -2
+
+14726 : S1: 86.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 39.00 cm
+
+14824 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+14904 : S1: 89.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 92.00 cm
+
+15009 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+15082 : S1: 88.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 90.00 cm
+
+15179 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+15262 : S1: 90.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 91.00 cm
+
+15262 : Control R
+15369 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+15448 : S1: 88.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 92.00 cm
+
+15550 : LDir: CW | LCount: 3 | RDir: CW | RCount: 4
+
+15626 : S1: 89.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 39.00 cm
+
+15723 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+15799 : S1: 91.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 39.00 cm
+
+15800 : Control R
+15800 : Control R
+15800 : Control R
+15800 : Control R
+15817 : Control R
+15927 : LDir:  | LCount: 0 | RDir: CW | RCount: 1
+
+15972 : S1: 92.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+16099 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+16176 : S1: 0.00 cm | S2: 40.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+16274 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+16351 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+16402 : Control R
+16449 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+16531 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+16663 : LDir: CW | LCount: 1 | RDir: CW | RCount: 2
+
+16720 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 42.00 cm
+
+16820 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+16893 : S1: 0.00 cm | S2: 93.00 cm | S3: 0.00 cm | S4: 59.00 cm
+
+16993 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+17075 : S1: 0.00 cm | S2: 94.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+17110 : Control F
+17192 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+17242 : S1: 0.00 cm | S2: 94.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+17383 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 3
+
+17427 : S1: 0.00 cm | S2: 93.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+17551 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+17609 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 40.00 cm
+
+17610 : Control F
+17645 : Control F
+17678 : Control F
+17730 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+17806 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 41.00 cm
+
+17806 : Control F
+17806 : Control F
+17806 : Control F
+17806 : Control F
+17823 : Control F
+17857 : Control F
+17906 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+17965 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+17966 : Control F
+17966 : Control F
+17966 : Control F
+17984 : Control F
+18000 : Control F
+18033 : Control F
+18114 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 5
+
+18161 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 38.00 cm
+
+18162 : Control F
+18162 : Control F
+18162 : Control F
+18162 : Control F
+18196 : Control F
+18213 : Control F
+18291 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 6
+
+18341 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 35.00 cm
+
+18342 : Control F
+18342 : Control F
+18342 : Control F
+18342 : Control F
+18376 : Control F
+18392 : Control F
+18476 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+18520 : S1: 0.00 cm | S2: 90.00 cm | S3: 0.00 cm | S4: 36.00 cm
+
+18520 : Control F
+18520 : Control F
+18520 : Control F
+18520 : Control F
+18555 : Control F
+18589 : Control F
+18636 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 2
+
+18714 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 38.00 cm
+
+18714 : Control F
+18714 : Control F
+18714 : Control F
+18714 : Control F
+18732 : Control F
+18765 : Control F
+18815 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+18895 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+18895 : Control F
+18895 : Control F
+18895 : Control F
+18895 : Control F
+18913 : Control F
+18946 : Control F
+19002 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+19057 : S1: 0.00 cm | S2: 89.00 cm | S3: 0.00 cm | S4: 44.00 cm
+
+19058 : Control F
+19058 : Control F
+19058 : Control F
+19075 : Control F
+19092 : Control F
+19125 : Control F
+19181 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 6
+
+19237 : S1: 0.00 cm | S2: 81.00 cm | S3: 0.00 cm | S4: 73.00 cm
+
+19238 : Control F
+19238 : Control F
+19238 : Control F
+19255 : Control F
+19289 : Control F
+19305 : Control F
+19359 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+19441 : S1: 97.00 cm | S2: 79.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+19441 : Control F
+19441 : Control F
+19441 : Control F
+19441 : Control F
+19459 : Control F
+19492 : Control F
+19540 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+19618 : S1: 90.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 72.00 cm
+
+19619 : Control F
+19619 : Control F
+19619 : Control F
+19619 : Control F
+19653 : Control F
+19687 : Control F
+19730 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+19778 : S1: 85.00 cm | S2: 77.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+19779 : Control F
+19779 : Control F
+19779 : Control F
+19796 : Control F
+19830 : Control F
+19863 : Control F
+19908 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+19963 : S1: 86.00 cm | S2: 81.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+19963 : Control F
+19963 : Control F
+19963 : Control F
+19981 : Control F
+20014 : Control F
+20098 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 7
+
+20157 : S1: 73.00 cm | S2: 89.00 cm | S3: 0.00 cm | S4: 74.00 cm
+
+20269 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+20346 : S1: 67.00 cm | S2: 55.00 cm | S3: 0.00 cm | S4: 80.00 cm
+
+20447 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 2
+
+20528 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+20631 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+20708 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+20807 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+20891 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+20994 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21076 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+21172 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21255 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+21352 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21425 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+21553 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21600 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+21729 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21774 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+21898 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21981 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+22079 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+22161 : S1: 60.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+22265 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+22343 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+22448 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+22525 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+22622 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+22707 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+22803 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+22881 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+22980 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23060 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+23185 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23229 : S1: 61.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+23350 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23428 : S1: 63.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+23527 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23610 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+23708 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23788 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+23915 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23961 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+24085 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24136 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+24259 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24342 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+24449 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24500 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+24621 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24684 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+24811 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24866 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+24994 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25044 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+25171 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25249 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+25350 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25427 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+25532 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25614 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+25712 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25797 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+25894 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+25968 : S1: 63.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+26092 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26140 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+26269 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26315 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+26437 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26521 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+26617 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26700 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+26802 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26876 : S1: 63.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+26972 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27058 : S1: 61.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+27156 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27237 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+27334 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27417 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+27541 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27593 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+27714 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27772 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+27893 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+27946 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+28068 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28151 : S1: 63.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+28248 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28332 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+28430 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28514 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+28612 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28692 : S1: 62.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+28791 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28851 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+28972 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+29060 : S1: 62.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+29164 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+29237 : S1: 62.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+29337 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+29420 : S1: 61.00 cm | S2: 57.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+29421 : Control R
+29533 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+29590 : S1: 63.00 cm | S2: 56.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+29718 : LDir: CW | LCount: 4 | RDir: CW | RCount: 5
+
+29762 : S1: 0.00 cm | S2: 58.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+29887 : LDir: CW | LCount: 1 | RDir:  | RCount: 0
+
+29939 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+29939 : Control R
+30063 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+30146 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+30245 : LDir: CW | LCount: 3 | RDir: CW | RCount: 3
+
+30328 : S1: 0.00 cm | S2: 63.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+30430 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+30507 : S1: 0.00 cm | S2: 44.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+30605 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+30684 : S1: 0.00 cm | S2: 44.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+30781 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+30858 : S1: 0.00 cm | S2: 44.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+30858 : Control F
+30990 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+31033 : S1: 0.00 cm | S2: 44.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+31156 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+31234 : S1: 0.00 cm | S2: 64.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+31335 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+31411 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+31411 : Control F
+31411 : Control F
+31411 : Control F
+31411 : Control F
+31429 : Control F
+31462 : Control F
+31507 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+31507 : Control F
+31524 : Control F
+31575 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+31576 : Control F
+31576 : Control F
+31611 : Control F
+31643 : Control F
+31723 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 4
+
+31772 : S1: 0.00 cm | S2: 69.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+31772 : Control F
+31772 : Control F
+31773 : Control F
+31773 : Control F
+31790 : Control F
+31824 : Control F
+31906 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 2
+
+31953 : S1: 0.00 cm | S2: 44.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+31954 : Control F
+31954 : Control F
+31954 : Control F
+31954 : Control F
+31971 : Control F
+32005 : Control F
+32085 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+32134 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+32134 : Control F
+32134 : Control F
+32134 : Control F
+32134 : Control F
+32152 : Control F
+32185 : Control F
+32267 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+32320 : S1: 0.00 cm | S2: 49.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+32320 : Control F
+32320 : Control F
+32320 : Control F
+32320 : Control F
+32338 : Control F
+32354 : Control F
+32388 : Control F
+32439 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+32498 : S1: 0.00 cm | S2: 60.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+32499 : Control F
+32499 : Control F
+32499 : Control F
+32516 : Control F
+32550 : Control F
+32629 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+32677 : S1: 0.00 cm | S2: 63.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+32677 : Control F
+32677 : Control F
+32677 : Control F
+32677 : Control F
+32694 : Control F
+32728 : Control F
+32810 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 7
+
+32861 : S1: 0.00 cm | S2: 59.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+32861 : Control F
+32861 : Control F
+32861 : Control F
+32861 : Control F
+32879 : Control F
+32912 : Control F
+32996 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 4
+
+33040 : S1: 0.00 cm | S2: 59.00 cm | S3: 0.00 cm | S4: 59.00 cm
+
+33040 : Control F
+33040 : Control F
+33040 : Control F
+33040 : Control F
+33058 : Control F
+33091 : Control F
+33174 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 5
+
+33225 : S1: 0.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+33226 : Control F
+33226 : Control F
+33226 : Control F
+33226 : Control F
+33243 : Control F
+33277 : Control F
+33356 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+33409 : S1: 0.00 cm | S2: 75.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+33409 : Control F
+33409 : Control F
+33409 : Control F
+33409 : Control F
+33427 : Control F
+33460 : Control F
+33541 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+33587 : S1: 0.00 cm | S2: 60.00 cm | S3: 0.00 cm | S4: 60.00 cm
+
+33587 : Control F
+33587 : Control F
+33587 : Control F
+33587 : Control F
+33605 : Control F
+33638 : Control F
+33716 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+33768 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+33768 : Control F
+33768 : Control F
+33768 : Control F
+33768 : Control F
+33785 : Control F
+33819 : Control F
+33903 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+33937 : S1: 0.00 cm | S2: 64.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+33937 : Control F
+33937 : Control F
+33937 : Control F
+33937 : Control F
+33972 : Control F
+34005 : Control F
+34080 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+34126 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+34127 : Control F
+34127 : Control F
+34127 : Control F
+34127 : Control F
+34161 : Control F
+34178 : Control F
+34258 : LDir: CW | LCount: -5 | RDir: CW | RCount: 4
+
+34309 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34309 : Control F
+34309 : Control F
+34309 : Control F
+34310 : Control F
+34344 : Control F
+34378 : Control F
+34421 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 7
+
+34498 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+34498 : Control F
+34498 : Control F
+34498 : Control F
+34498 : Control F
+34516 : Control F
+34549 : Control F
+34625 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+34678 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+34678 : Control F
+34678 : Control F
+34678 : Control F
+34678 : Control F
+34696 : Control F
+34730 : Control F
+34781 : LDir: CW | LCount: -5 | RDir: CW | RCount: 6
+
+34839 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 83.00 cm
+
+34839 : Control F
+34839 : Control F
+34839 : Control F
+34840 : Control F
+34874 : Control F
+34908 : Control F
+34978 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 6
+
+35022 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 82.00 cm
+
+35022 : Control F
+35022 : Control F
+35022 : Control F
+35022 : Control F
+35056 : Control F
+35089 : Control F
+35144 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+35199 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 74.00 cm
+
+35200 : Control F
+35200 : Control F
+35200 : Control F
+35217 : Control F
+35234 : Control F
+35267 : Control F
+35350 : LDir: CW | LCount: -5 | RDir: CW | RCount: 4
+
+35396 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 76.00 cm
+
+35396 : Control F
+35396 : Control F
+35396 : Control F
+35396 : Control F
+35413 : Control F
+35447 : Control F
+35509 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+35588 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 80.00 cm
+
+35589 : Control F
+35589 : Control F
+35589 : Control F
+35589 : Control F
+35606 : Control F
+35640 : Control F
+35697 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 4
+
+35746 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+35746 : Control F
+35746 : Control F
+35746 : Control F
+35746 : Control F
+35781 : Control F
+35814 : Control F
+35875 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+35924 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+35924 : Control F
+35924 : Control F
+35924 : Control F
+36062 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+36112 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+36238 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 4
+
+36291 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+36422 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+36469 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+36470 : Control B
+36616 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+36656 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+36799 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -4
+
+36832 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 53.00 cm
+
+36883 : Control B
+36900 : Control B
+36966 : LDir: CW | LCount: 1 | RDir:  | RCount: 0
+
+37032 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 53.00 cm
+
+37032 : Control B
+37032 : Control B
+37032 : Control B
+37032 : Control B
+37049 : Control B
+37082 : Control B
+37138 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+37200 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 53.00 cm
+
+37201 : Control B
+37201 : Control B
+37201 : Control B
+37201 : Control B
+37235 : Control B
+37269 : Control B
+37325 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -3
+
+37378 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+37378 : Control B
+37378 : Control B
+37378 : Control B
+37396 : Control B
+37413 : Control B
+37446 : Control B
+37530 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+37585 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+37585 : Control B
+37585 : Control B
+37586 : Control B
+37586 : Control B
+37603 : Control B
+37637 : Control B
+37685 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -7
+
+37767 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+37767 : Control B
+37767 : Control B
+37767 : Control B
+37767 : Control B
+37784 : Control B
+37818 : Control B
+37868 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+37949 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+37949 : Control B
+37949 : Control B
+37949 : Control B
+37949 : Control B
+37967 : Control B
+37984 : Control B
+38017 : Control B
+38073 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+38122 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 81.00 cm
+
+38122 : Control B
+38122 : Control B
+38122 : Control B
+38139 : Control B
+38173 : Control B
+38252 : LDir: CCW | LCount: 4 | RDir: CCW | RCount: -6
+
+38309 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+38310 : Control B
+38310 : Control B
+38310 : Control B
+38310 : Control B
+38327 : Control B
+38360 : Control B
+38410 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+38468 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 75.00 cm
+
+38468 : Control B
+38468 : Control B
+38468 : Control B
+38485 : Control B
+38519 : Control B
+38594 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+38671 : S1: 0.00 cm | S2: 85.00 cm | S3: 0.00 cm | S4: 85.00 cm
+
+38773 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+38857 : S1: 0.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 96.00 cm
+
+38954 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -2
+
+39037 : S1: 0.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 81.00 cm
+
+39037 : Control F
+39142 : LDir:  | LCount: 0 | RDir: CW | RCount: 1
+
+39196 : S1: 0.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 79.00 cm
+
+39344 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 4
+
+39400 : S1: 0.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 95.00 cm
+
+39499 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+39552 : S1: 0.00 cm | S2: 83.00 cm | S3: 0.00 cm | S4: 73.00 cm
+
+39553 : Control F
+39553 : Control F
+39553 : Control F
+39587 : Control F
+39621 : Control F
+39669 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+39752 : S1: 0.00 cm | S2: 81.00 cm | S3: 0.00 cm | S4: 74.00 cm
+
+39753 : Control F
+39753 : Control F
+39753 : Control F
+39753 : Control F
+39770 : Control F
+39803 : Control F
+39884 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+39933 : S1: 0.00 cm | S2: 82.00 cm | S3: 0.00 cm | S4: 73.00 cm
+
+39933 : Control F
+39933 : Control F
+39933 : Control F
+39933 : Control F
+39950 : Control F
+39984 : Control F
+40066 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 3
+
+40123 : S1: 0.00 cm | S2: 84.00 cm | S3: 0.00 cm | S4: 85.00 cm
+
+40124 : Control F
+40124 : Control F
+40124 : Control F
+40124 : Control F
+40141 : Control F
+40174 : Control F
+40249 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+40297 : S1: 0.00 cm | S2: 86.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+40298 : Control F
+40298 : Control F
+40298 : Control F
+40298 : Control F
+40315 : Control F
+40348 : Control F
+40427 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+40475 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+40476 : Control F
+40476 : Control F
+40476 : Control F
+40476 : Control F
+40493 : Control F
+40526 : Control F
+40609 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+40653 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 77.00 cm
+
+40653 : Control F
+40653 : Control F
+40653 : Control F
+40653 : Control F
+40687 : Control F
+40721 : Control F
+40767 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+40820 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+40821 : Control F
+40821 : Control F
+40821 : Control F
+40838 : Control F
+40872 : Control F
+40888 : Control F
+40951 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+41029 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+41029 : Control F
+41029 : Control F
+41029 : Control F
+41029 : Control F
+41047 : Control F
+41080 : Control F
+41139 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 7
+
+41211 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+41211 : Control F
+41211 : Control F
+41211 : Control F
+41211 : Control F
+41229 : Control F
+41262 : Control F
+41319 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+41375 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+41375 : Control F
+41375 : Control F
+41375 : Control F
+41375 : Control F
+41410 : Control F
+41443 : Control F
+41494 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+41548 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 96.00 cm
+
+41548 : Control F
+41548 : Control F
+41548 : Control F
+41565 : Control F
+41599 : Control F
+41616 : Control F
+41700 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+41745 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 41.00 cm
+
+41746 : Control F
+41746 : Control F
+41746 : Control F
+41746 : Control F
+41855 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+41930 : S1: 0.00 cm | S2: 98.00 cm | S3: 0.00 cm | S4: 38.00 cm
+
+42041 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+42093 : S1: 93.00 cm | S2: 89.00 cm | S3: 0.00 cm | S4: 34.00 cm
+
+42094 : Control L
+42222 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 2
+
+42273 : S1: 89.00 cm | S2: 95.00 cm | S3: 0.00 cm | S4: 33.00 cm
+
+42417 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -5
+
+42465 : S1: 90.00 cm | S2: 98.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+42596 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+42661 : S1: 86.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+42661 : Control L
+42661 : Control L
+42662 : Control L
+42696 : Control L
+42729 : Control L
+42774 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+42774 : Control L
+42774 : Control L
+42831 : S1: 86.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 32.00 cm
+
+42966 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -4
+
+43019 : S1: 88.00 cm | S2: 0.00 cm | S3: 97.00 cm | S4: 35.00 cm
+
+43122 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -1
+
+43202 : S1: 0.00 cm | S2: 0.00 cm | S3: 97.00 cm | S4: 50.00 cm
+
+43236 : Control F
+43319 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+43366 : S1: 0.00 cm | S2: 0.00 cm | S3: 99.00 cm | S4: 50.00 cm
+
+43492 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 4
+
+43541 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+43679 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+43723 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+43724 : Control F
+43758 : Control F
+43791 : Control F
+43870 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+43919 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+43919 : Control F
+43919 : Control F
+43919 : Control F
+43919 : Control F
+43936 : Control F
+43970 : Control F
+44053 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+44102 : S1: 0.00 cm | S2: 0.00 cm | S3: 67.00 cm | S4: 48.00 cm
+
+44102 : Control F
+44103 : Control F
+44103 : Control F
+44103 : Control F
+44120 : Control F
+44154 : Control F
+44236 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+44283 : S1: 0.00 cm | S2: 0.00 cm | S3: 70.00 cm | S4: 49.00 cm
+
+44283 : Control F
+44283 : Control F
+44283 : Control F
+44283 : Control F
+44300 : Control F
+44334 : Control F
+44411 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+44454 : S1: 0.00 cm | S2: 0.00 cm | S3: 81.00 cm | S4: 49.00 cm
+
+44454 : Control F
+44454 : Control F
+44454 : Control F
+44455 : Control F
+44489 : Control F
+44522 : Control F
+44570 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+44649 : S1: 0.00 cm | S2: 0.00 cm | S3: 78.00 cm | S4: 49.00 cm
+
+44650 : Control F
+44650 : Control F
+44650 : Control F
+44650 : Control F
+44667 : Control F
+44700 : Control F
+44777 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+44830 : S1: 0.00 cm | S2: 0.00 cm | S3: 83.00 cm | S4: 48.00 cm
+
+44830 : Control F
+44830 : Control F
+44830 : Control F
+44830 : Control F
+44847 : Control F
+44881 : Control F
+44959 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+45008 : S1: 0.00 cm | S2: 0.00 cm | S3: 87.00 cm | S4: 47.00 cm
+
+45008 : Control F
+45008 : Control F
+45008 : Control F
+45008 : Control F
+45026 : Control F
+45059 : Control F
+45144 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+45194 : S1: 0.00 cm | S2: 0.00 cm | S3: 92.00 cm | S4: 47.00 cm
+
+45194 : Control F
+45194 : Control F
+45194 : Control F
+45194 : Control F
+45212 : Control F
+45245 : Control F
+45322 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+45371 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 46.00 cm
+
+45371 : Control F
+45371 : Control F
+45371 : Control F
+45371 : Control F
+45405 : Control F
+45421 : Control F
+45503 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+45552 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 46.00 cm
+
+45553 : Control F
+45553 : Control F
+45553 : Control F
+45553 : Control F
+45587 : Control F
+45621 : Control F
+45681 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+45727 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+45727 : Control F
+45727 : Control F
+45727 : Control F
+45727 : Control F
+45762 : Control F
+45795 : Control F
+45844 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+45924 : S1: 0.00 cm | S2: 0.00 cm | S3: 81.00 cm | S4: 46.00 cm
+
+45924 : Control F
+45924 : Control F
+45924 : Control F
+45924 : Control F
+45942 : Control F
+45975 : Control F
+46027 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 8
+
+46105 : S1: 97.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+46106 : Control F
+46106 : Control F
+46106 : Control F
+46106 : Control F
+46123 : Control F
+46157 : Control F
+46233 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+46286 : S1: 94.00 cm | S2: 54.00 cm | S3: 92.00 cm | S4: 40.00 cm
+
+46287 : Control F
+46287 : Control F
+46287 : Control F
+46287 : Control F
+46304 : Control F
+46338 : Control F
+46393 : LDir: CCW | LCount: -8 | RDir: CW | RCount: 5
+
+46473 : S1: 0.00 cm | S2: 0.00 cm | S3: 96.00 cm | S4: 47.00 cm
+
+46473 : Control F
+46473 : Control F
+46473 : Control F
+46473 : Control F
+46490 : Control F
+46524 : Control F
+46574 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+46629 : S1: 83.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 56.00 cm
+
+46630 : Control F
+46630 : Control F
+46630 : Control F
+46647 : Control F
+46680 : Control F
+46698 : Control F
+46757 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+46831 : S1: 0.00 cm | S2: 33.00 cm | S3: 0.00 cm | S4: 54.00 cm
+
+46832 : Control F
+46832 : Control F
+46832 : Control F
+46832 : Control F
+46943 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+46989 : S1: 98.00 cm | S2: 31.00 cm | S3: 0.00 cm | S4: 53.00 cm
+
+47126 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+47207 : S1: 92.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 51.00 cm
+
+47306 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 2
+
+47353 : S1: 86.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+47353 : Control B
+47486 : LDir:  | LCount: 0 | RDir: CCW | RCount: -1
+
+47539 : S1: 84.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+47666 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+47720 : S1: 84.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+47843 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+47921 : S1: 88.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+47922 : Control B
+47922 : Control B
+47922 : Control B
+47939 : Control B
+47972 : Control B
+48014 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+48014 : Control B
+48032 : Control B
+48085 : S1: 88.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+48086 : Control B
+48086 : Control B
+48121 : Control B
+48153 : Control B
+48213 : LDir: CW | LCount: 5 | RDir: CCW | RCount: -4
+
+48259 : S1: 90.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 51.00 cm
+
+48259 : Control B
+48259 : Control B
+48259 : Control B
+48277 : Control B
+48294 : Control B
+48327 : Control B
+48411 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -6
+
+48459 : S1: 93.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 51.00 cm
+
+48459 : Control B
+48459 : Control B
+48459 : Control B
+48459 : Control B
+48477 : Control B
+48510 : Control B
+48595 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+48650 : S1: 100.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 55.00 cm
+
+48650 : Control B
+48650 : Control B
+48650 : Control B
+48650 : Control B
+48668 : Control B
+48701 : Control B
+48751 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -2
+
+48808 : S1: 0.00 cm | S2: 33.00 cm | S3: 0.00 cm | S4: 55.00 cm
+
+48808 : Control B
+48808 : Control B
+48808 : Control B
+48808 : Control B
+48842 : Control B
+48876 : Control B
+48955 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -6
+
+48999 : S1: 83.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 45.00 cm
+
+48999 : Control B
+48999 : Control B
+48999 : Control B
+48999 : Control B
+49034 : Control B
+49067 : Control B
+49115 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+49191 : S1: 0.00 cm | S2: 0.00 cm | S3: 96.00 cm | S4: 49.00 cm
+
+49192 : Control B
+49192 : Control B
+49192 : Control B
+49192 : Control B
+49226 : Control B
+49242 : Control B
+49295 : LDir: CCW | LCount: 2 | RDir: CCW | RCount: -6
+
+49372 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 46.00 cm
+
+49373 : Control B
+49373 : Control B
+49373 : Control B
+49373 : Control B
+49407 : Control B
+49424 : Control B
+49475 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -6
+
+49553 : S1: 95.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 46.00 cm
+
+49553 : Control B
+49553 : Control B
+49553 : Control B
+49553 : Control B
+49587 : Control B
+49620 : Control B
+49686 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+49736 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+49737 : Control B
+49737 : Control B
+49737 : Control B
+49737 : Control B
+49771 : Control B
+49804 : Control B
+49856 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -7
+
+49900 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 48.00 cm
+
+49901 : Control B
+49901 : Control B
+50028 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+50076 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 48.00 cm
+
+50203 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+50283 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+50334 : Control F
+50385 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+50463 : S1: 0.00 cm | S2: 0.00 cm | S3: 100.00 cm | S4: 50.00 cm
+
+50569 : LDir: CCW | LCount: -4 | RDir: CW | RCount: -1
+
+50646 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 49.00 cm
+
+50746 : LDir: CCW | LCount: 0 | RDir: CCW | RCount: -1
+
+50822 : S1: 0.00 cm | S2: 0.00 cm | S3: 100.00 cm | S4: 48.00 cm
+
+50840 : Control F
+50874 : Control F
+50921 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+51001 : S1: 0.00 cm | S2: 0.00 cm | S3: 100.00 cm | S4: 48.00 cm
+
+51001 : Control F
+51001 : Control F
+51001 : Control F
+51001 : Control F
+51018 : Control F
+51052 : Control F
+51134 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 5
+
+51183 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 48.00 cm
+
+51183 : Control F
+51183 : Control F
+51183 : Control F
+51183 : Control F
+51201 : Control F
+51234 : Control F
+51316 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 3
+
+51366 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 48.00 cm
+
+51367 : Control F
+51367 : Control F
+51367 : Control F
+51367 : Control F
+51384 : Control F
+51417 : Control F
+51499 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+51544 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+51545 : Control F
+51545 : Control F
+51545 : Control F
+51545 : Control F
+51562 : Control F
+51595 : Control F
+51678 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+51729 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 46.00 cm
+
+51729 : Control F
+51729 : Control F
+51729 : Control F
+51729 : Control F
+51746 : Control F
+51780 : Control F
+51861 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+51904 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 47.00 cm
+
+51904 : Control F
+51904 : Control F
+51904 : Control F
+51904 : Control F
+51938 : Control F
+51955 : Control F
+51989 : Control F
+52033 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+52083 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+52084 : Control F
+52084 : Control F
+52084 : Control F
+52118 : Control F
+52151 : Control F
+52205 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+52260 : S1: 0.00 cm | S2: 0.00 cm | S3: 96.00 cm | S4: 43.00 cm
+
+52260 : Control F
+52260 : Control F
+52260 : Control F
+52260 : Control F
+52295 : Control F
+52328 : Control F
+52404 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+52462 : S1: 0.00 cm | S2: 0.00 cm | S3: 0.00 cm | S4: 54.00 cm
+
+52462 : Control F
+52462 : Control F
+52462 : Control F
+52462 : Control F
+52480 : Control F
+52513 : Control F
+52559 : LDir: CW | LCount: -5 | RDir: CW | RCount: 4
+
+52635 : S1: 0.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 53.00 cm
+
+52635 : Control F
+52635 : Control F
+52635 : Control F
+52635 : Control F
+52652 : Control F
+52686 : Control F
+52766 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+52808 : S1: 0.00 cm | S2: 33.00 cm | S3: 0.00 cm | S4: 55.00 cm
+
+52808 : Control F
+52808 : Control F
+52808 : Control F
+52808 : Control F
+52842 : Control F
+52876 : Control F
+52924 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+52999 : S1: 95.00 cm | S2: 31.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+52999 : Control F
+53000 : Control F
+53000 : Control F
+53000 : Control F
+53017 : Control F
+53050 : Control F
+53133 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+53182 : S1: 87.00 cm | S2: 36.00 cm | S3: 0.00 cm | S4: 51.00 cm
+
+53182 : Control F
+53182 : Control F
+53182 : Control F
+53182 : Control F
+53286 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 3
+
+53360 : S1: 82.00 cm | S2: 66.00 cm | S3: 0.00 cm | S4: 52.00 cm
+
+53470 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+53549 : S1: 75.00 cm | S2: 42.00 cm | S3: 0.00 cm | S4: 70.00 cm
+
+53584 : Control R
+53667 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 2
+
+53721 : S1: 70.00 cm | S2: 67.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+53852 : LDir: CW | LCount: 1 | RDir: CW | RCount: 3
+
+53904 : S1: 71.00 cm | S2: 59.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+54000 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+54084 : S1: 73.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+54084 : Control R
+54102 : Control R
+54136 : Control R
+54185 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+54185 : Control R
+54275 : S1: 72.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+54275 : Control R
+54275 : Control R
+54275 : Control R
+54293 : Control R
+54326 : Control R
+54399 : LDir: CW | LCount: 1 | RDir:  | RCount: 0
+
+54448 : S1: 74.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+54449 : Control R
+54563 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+54626 : S1: 73.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+54755 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+54801 : S1: 73.00 cm | S2: 39.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+54869 : Control F
+54917 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+55000 : S1: 73.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 61.00 cm
+
+55101 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 1
+
+55180 : S1: 74.00 cm | S2: 39.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+55283 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 1
+
+55360 : S1: 73.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+55360 : Control F
+55395 : Control F
+55428 : Control F
+55478 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+55478 : Control F
+55478 : Control F
+55523 : S1: 72.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+55523 : Control F
+55541 : Control F
+55575 : Control F
+55607 : Control F
+55653 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+55704 : S1: 71.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+55704 : Control F
+55704 : Control F
+55704 : Control F
+55722 : Control F
+55755 : Control F
+55789 : Control F
+55843 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 5
+
+55888 : S1: 68.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+55888 : Control F
+55888 : Control F
+55888 : Control F
+55906 : Control F
+55940 : Control F
+55956 : Control F
+56012 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+56063 : S1: 61.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+56063 : Control F
+56063 : Control F
+56063 : Control F
+56080 : Control F
+56114 : Control F
+56147 : Control F
+56206 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: 2
+
+56248 : S1: 60.00 cm | S2: 33.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+56249 : Control F
+56249 : Control F
+56249 : Control F
+56266 : Control F
+56300 : Control F
+56333 : Control F
+56403 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+56426 : S1: 50.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+56427 : Control F
+56427 : Control F
+56427 : Control F
+56444 : Control F
+56478 : Control F
+56511 : Control F
+56554 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+56633 : S1: 45.00 cm | S2: 30.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+56633 : Control F
+56633 : Control F
+56633 : Control F
+56740 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 5
+
+56814 : S1: 38.00 cm | S2: 27.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+56921 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+57005 : S1: 35.00 cm | S2: 26.00 cm | S3: 94.00 cm | S4: 68.00 cm
+
+57119 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+57171 : S1: 28.00 cm | S2: 23.00 cm | S3: 94.00 cm | S4: 70.00 cm
+
+57291 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+57341 : S1: 26.00 cm | S2: 23.00 cm | S3: 94.00 cm | S4: 71.00 cm
+
+57341 : Control B
+57468 : LDir:  | LCount: 0 | RDir: CCW | RCount: -1
+
+57513 : S1: 26.00 cm | S2: 23.00 cm | S3: 95.00 cm | S4: 70.00 cm
+
+57651 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -3
+
+57709 : S1: 28.00 cm | S2: 25.00 cm | S3: 93.00 cm | S4: 70.00 cm
+
+57824 : LDir: CW | LCount: 1 | RDir: CW | RCount: 0
+
+57876 : S1: 30.00 cm | S2: 25.00 cm | S3: 0.00 cm | S4: 70.00 cm
+
+57877 : Control B
+57877 : Control B
+57877 : Control B
+57877 : Control B
+57894 : Control B
+57928 : Control B
+57961 : Control B
+58014 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+58062 : S1: 30.00 cm | S2: 25.00 cm | S3: 0.00 cm | S4: 70.00 cm
+
+58062 : Control B
+58062 : Control B
+58062 : Control B
+58080 : Control B
+58113 : Control B
+58147 : Control B
+58192 : LDir: CW | LCount: 5 | RDir: CCW | RCount: -4
+
+58273 : S1: 30.00 cm | S2: 25.00 cm | S3: 0.00 cm | S4: 71.00 cm
+
+58274 : Control B
+58274 : Control B
+58274 : Control B
+58274 : Control B
+58291 : Control B
+58325 : Control B
+58377 : LDir: CW | LCount: 5 | RDir: CCW | RCount: -6
+
+58432 : S1: 35.00 cm | S2: 27.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+58432 : Control B
+58432 : Control B
+58432 : Control B
+58450 : Control B
+58483 : Control B
+58500 : Control B
+58555 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -4
+
+58623 : S1: 43.00 cm | S2: 28.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+58624 : Control B
+58624 : Control B
+58624 : Control B
+58624 : Control B
+58658 : Control B
+58691 : Control B
+58752 : LDir: CW | LCount: 5 | RDir: CCW | RCount: -7
+
+58798 : S1: 47.00 cm | S2: 30.00 cm | S3: 0.00 cm | S4: 68.00 cm
+
+58798 : Control B
+58798 : Control B
+58798 : Control B
+58798 : Control B
+58908 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+58989 : S1: 50.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+59007 : Control R
+59091 : LDir: CCW | LCount: 2 | RDir: CCW | RCount: -4
+
+59171 : S1: 55.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 69.00 cm
+
+59272 : LDir: CW | LCount: 6 | RDir: CW | RCount: 4
+
+59351 : S1: 62.00 cm | S2: 35.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+59450 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+59533 : S1: 69.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+59632 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+59690 : S1: 69.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+59812 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+59812 : Control F
+59897 : S1: 71.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+59998 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 2
+
+60075 : S1: 69.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 64.00 cm
+
+60176 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 2
+
+60255 : S1: 68.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+60306 : Control F
+60357 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+60434 : S1: 67.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+60435 : Control F
+60435 : Control F
+60435 : Control F
+60435 : Control F
+60452 : Control F
+60486 : Control F
+60539 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 2
+
+60619 : S1: 65.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 65.00 cm
+
+60619 : Control F
+60619 : Control F
+60619 : Control F
+60619 : Control F
+60637 : Control F
+60670 : Control F
+60721 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 4
+
+60796 : S1: 65.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 67.00 cm
+
+60797 : Control F
+60797 : Control F
+60797 : Control F
+60797 : Control F
+60814 : Control F
+60847 : Control F
+60926 : LDir: CW | LCount: -4 | RDir: CW | RCount: 6
+
+60990 : S1: 60.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+60990 : Control F
+60990 : Control F
+60990 : Control F
+60990 : Control F
+61008 : Control F
+61024 : Control F
+61104 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+61165 : S1: 53.00 cm | S2: 34.00 cm | S3: 0.00 cm | S4: 59.00 cm
+
+61166 : Control F
+61166 : Control F
+61166 : Control F
+61166 : Control F
+61183 : Control F
+61217 : Control F
+61263 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 4
+
+61338 : S1: 48.00 cm | S2: 32.00 cm | S3: 0.00 cm | S4: 57.00 cm
+
+61338 : Control F
+61338 : Control F
+61338 : Control F
+61338 : Control F
+61356 : Control F
+61389 : Control F
+61472 : LDir: CCW | LCount: -4 | RDir: CW | RCount: 6
+
+61524 : S1: 43.00 cm | S2: 31.00 cm | S3: 0.00 cm | S4: 58.00 cm
+
+61525 : Control F
+61525 : Control F
+61525 : Control F
+61525 : Control F
+61542 : Control F
+61576 : Control F
+61636 : LDir: CCW | LCount: -8 | RDir: CW | RCount: 6
+
+61687 : S1: 40.00 cm | S2: 30.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+61687 : Control F
+61687 : Control F
+61687 : Control F
+61687 : Control F
+61722 : Control F
+61754 : Control F
+61836 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+61880 : S1: 0.00 cm | S2: 28.00 cm | S3: 88.00 cm | S4: 64.00 cm
+
+61881 : Control F
+61881 : Control F
+61881 : Control F
+61881 : Control F
+61915 : Control F
+61998 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+62081 : S1: 24.00 cm | S2: 27.00 cm | S3: 93.00 cm | S4: 71.00 cm
+
+62181 : LDir: CCW | LCount: -8 | RDir: CW | RCount: 7
+
+62233 : S1: 19.00 cm | S2: 0.00 cm | S3: 73.00 cm | S4: 0.00 cm
+
+62234 : Control B
+62362 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 2
+
+62410 : S1: 21.00 cm | S2: 0.00 cm | S3: 79.00 cm | S4: 0.00 cm
+
+62540 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+62617 : S1: 36.00 cm | S2: 0.00 cm | S3: 74.00 cm | S4: 0.00 cm
+
+62881 : LDir: CW | LCount: 1 | RDir:  | RCount: 0
+
+62881 : S1: 15.00 cm | S2: 0.00 cm | S3: 72.00 cm | S4: 0.00 cm
+
+62909 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+62909 : Control B
+62909 : Control B
+62909 : Control B
+62910 : Control B
+62910 : Control B
+62910 : Control B
+62910 : Control B
+62961 : S1: 15.00 cm | S2: 0.00 cm | S3: 74.00 cm | S4: 0.00 cm
+
+62962 : Control B
+62979 : Control B
+62996 : Control B
+63030 : Control B
+63106 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -2
+
+63154 : S1: 14.00 cm | S2: 0.00 cm | S3: 74.00 cm | S4: 0.00 cm
+
+63154 : Control B
+63154 : Control B
+63154 : Control B
+63154 : Control B
+63189 : Control B
+63206 : Control B
+63287 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+63334 : S1: 15.00 cm | S2: 0.00 cm | S3: 73.00 cm | S4: 71.00 cm
+
+63335 : Control B
+63335 : Control B
+63335 : Control B
+63335 : Control B
+63369 : Control B
+63403 : Control B
+63448 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -7
+
+63505 : S1: 19.00 cm | S2: 0.00 cm | S3: 91.00 cm | S4: 67.00 cm
+
+63506 : Control B
+63506 : Control B
+63506 : Control B
+63506 : Control B
+63540 : Control B
+63574 : Control B
+63656 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -4
+
+63700 : S1: 40.00 cm | S2: 0.00 cm | S3: 93.00 cm | S4: 62.00 cm
+
+63700 : Control B
+63701 : Control B
+63701 : Control B
+63701 : Control B
+63718 : Control B
+63751 : Control B
+63840 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+63889 : S1: 34.00 cm | S2: 33.00 cm | S3: 83.00 cm | S4: 65.00 cm
+
+63890 : Control B
+63890 : Control B
+63890 : Control B
+63890 : Control B
+63907 : Control B
+63941 : Control B
+64021 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+64058 : S1: 42.00 cm | S2: 37.00 cm | S3: 0.00 cm | S4: 56.00 cm
+
+64058 : Control B
+64058 : Control B
+64058 : Control B
+64058 : Control B
+64195 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+64246 : S1: 43.00 cm | S2: 38.00 cm | S3: 0.00 cm | S4: 54.00 cm
+
+64264 : Control R
+64369 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -6
+
+64421 : S1: 50.00 cm | S2: 42.00 cm | S3: 0.00 cm | S4: 55.00 cm
+
+64545 : LDir: CW | LCount: 6 | RDir: CW | RCount: 4
+
+64592 : S1: 52.00 cm | S2: 41.00 cm | S3: 0.00 cm | S4: 55.00 cm
+
+64717 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+64797 : S1: 57.00 cm | S2: 40.00 cm | S3: 0.00 cm | S4: 63.00 cm
+
+64797 : Control R
+64797 : Control R
+64815 : Control R
+64848 : Control R
+64909 : LDir:  | LCount: 0 | RDir: CW | RCount: 1
+
+64957 : S1: 55.00 cm | S2: 39.00 cm | S3: 0.00 cm | S4: 62.00 cm
+
+64957 : Control R
+64957 : Control R
+64957 : Control R
+64975 : Control R
+64992 : Control R
+65024 : Control R
+65086 : LDir: CW | LCount: 2 | RDir: CW | RCount: 3
+
+65143 : S1: 59.00 cm | S2: 39.00 cm | S3: 0.00 cm | S4: 66.00 cm
+
+65143 : Control R
+65143 : Control R
+65143 : Control R
+65275 : LDir: CW | LCount: 3 | RDir: CW | RCount: 3
+
+65320 : S1: 0.00 cm | S2: 39.00 cm | S3: 58.00 cm | S4: 64.00 cm
+
+65442 : LDir: CW | LCount: 3 | RDir: CW | RCount: 3
+
+65522 : S1: 0.00 cm | S2: 39.00 cm | S3: 57.00 cm | S4: 65.00 cm
+
+65574 : Control L
+65626 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+65681 : S1: 0.00 cm | S2: 40.00 cm | S3: 58.00 cm | S4: 66.00 cm
+
+65827 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -3
+
+65881 : S1: 0.00 cm | S2: 40.00 cm | S3: 57.00 cm | S4: 66.00 cm
+
+66011 : LDir: CCW | LCount: -2 | RDir: CCW | RCount: -1
+
+66059 : S1: 0.00 cm | S2: 37.00 cm | S3: 56.00 cm | S4: 64.00 cm
+
+66183 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+66183 : Control F
+66233 : S1: 0.00 cm | S2: 37.00 cm | S3: 57.00 cm | S4: 65.00 cm
+
+66358 : LDir: CCW | LCount: -1 | RDir: CCW | RCount: 0
+
+66440 : S1: 0.00 cm | S2: 37.00 cm | S3: 57.00 cm | S4: 66.00 cm
+
+66548 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 3
+
+66599 : S1: 0.00 cm | S2: 38.00 cm | S3: 59.00 cm | S4: 67.00 cm
+
+66667 : Control F
+66717 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+66772 : S1: 0.00 cm | S2: 38.00 cm | S3: 59.00 cm | S4: 65.00 cm
+
+66772 : Control F
+66772 : Control F
+66772 : Control F
+66790 : Control F
+66824 : Control F
+66856 : Control F
+66910 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 3
+
+66953 : S1: 0.00 cm | S2: 38.00 cm | S3: 60.00 cm | S4: 66.00 cm
+
+66954 : Control F
+66954 : Control F
+66954 : Control F
+66971 : Control F
+67004 : Control F
+67038 : Control F
+67087 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+67134 : S1: 0.00 cm | S2: 38.00 cm | S3: 64.00 cm | S4: 65.00 cm
+
+67135 : Control F
+67135 : Control F
+67135 : Control F
+67152 : Control F
+67185 : Control F
+67219 : Control F
+67278 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+67319 : S1: 0.00 cm | S2: 40.00 cm | S3: 67.00 cm | S4: 45.00 cm
+
+67320 : Control F
+67320 : Control F
+67320 : Control F
+67337 : Control F
+67371 : Control F
+67452 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+67539 : S1: 0.00 cm | S2: 41.00 cm | S3: 75.00 cm | S4: 45.00 cm
+
+67539 : Control F
+67539 : Control F
+67629 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 6
+
+67689 : S1: 0.00 cm | S2: 43.00 cm | S3: 80.00 cm | S4: 46.00 cm
+
+67829 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+67858 : S1: 0.00 cm | S2: 44.00 cm | S3: 87.00 cm | S4: 46.00 cm
+
+67994 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 0
+
+68051 : S1: 0.00 cm | S2: 46.00 cm | S3: 93.00 cm | S4: 46.00 cm
+
+68186 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+68235 : S1: 0.00 cm | S2: 45.00 cm | S3: 92.00 cm | S4: 46.00 cm
+
+68365 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+68421 : S1: 0.00 cm | S2: 45.00 cm | S3: 92.00 cm | S4: 46.00 cm
+
+68526 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+68604 : S1: 0.00 cm | S2: 45.00 cm | S3: 93.00 cm | S4: 46.00 cm
+
+68713 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+68791 : S1: 0.00 cm | S2: 45.00 cm | S3: 93.00 cm | S4: 46.00 cm
+
+68887 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+68947 : S1: 0.00 cm | S2: 45.00 cm | S3: 93.00 cm | S4: 46.00 cm
+
+69078 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+69143 : S1: 0.00 cm | S2: 45.00 cm | S3: 92.00 cm | S4: 46.00 cm
+
+69243 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+69318 : S1: 0.00 cm | S2: 44.00 cm | S3: 92.00 cm | S4: 46.00 cm
+

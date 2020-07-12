@@ -1,0 +1,33 @@
+Tilt-pan camera operations 
+
+1. Face detection/recognition/emotion
+2. Object detection/recognition
+3. Environment feature detection
+4. ROI centering
+
+Tilt-pan + robot holistic operations
+
+1. Finding a person
+2. Finding an object 
+
+
+########################################################
+Operation details 
+
+Face detection
+	opencv haar based face detection 
+	return bounding boxes
+
+Face recognition
+	use existing face recognition algorithm
+
+Emotion recognition
+	use existing emotion recognition algorithm
+
+Object recognition
+	mobilenetV2 w/ imagenet weights and softmax final layer
+
+Environment feature detection
+	DeepGaze II for image saliency detection https://deepgaze.bethgelab.org/
+	cv2 saliency detection 	https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/
+	can be used for mapping

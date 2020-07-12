@@ -1,0 +1,756 @@
+2354 : 4: 0.00 cm
+
+2420 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2470 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+2604 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2652 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+2777 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+2825 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+2947 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3009 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+3133 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3195 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+3328 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3390 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+3497 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3574 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+3687 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3739 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+3865 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+3920 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4054 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+4099 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4212 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+4303 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4415 : LDir: CW | LCount: 5 | RDir: CCW | RCount: -4
+
+4478 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4602 : LDir: CW | LCount: 2 | RDir: CCW | RCount: -2
+
+4661 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4773 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+4838 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+4948 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -7
+
+5033 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5129 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -8
+
+5202 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5319 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -9
+
+5402 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5507 : LDir: CCW | LCount: 4 | RDir: CCW | RCount: -8
+
+5551 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5703 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -7
+
+5754 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+5858 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -6
+
+5937 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6036 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 4
+
+6118 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6221 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+6300 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6400 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+6461 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6582 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+6665 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6787 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+6847 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+6971 : LDir: CW | LCount: -2 | RDir: CW | RCount: 7
+
+7027 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7149 : LDir: CCW | LCount: -9 | RDir: CW | RCount: 7
+
+7199 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7336 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 9
+
+7367 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7501 : LDir: CCW | LCount: -8 | RDir: CW | RCount: 8
+
+7545 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7670 : LDir: CCW | LCount: -2 | RDir: CW | RCount: 1
+
+7751 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+7860 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+7909 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8036 : LDir: CW | LCount: 7 | RDir: CW | RCount: -3
+
+8089 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8219 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+8272 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8397 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -7
+
+8475 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8590 : LDir: CCW | LCount: -1 | RDir:  | RCount: 0
+
+8638 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8768 : LDir:  | LCount: 0 | RDir: CCW | RCount: -1
+
+8816 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+8941 : LDir: CCW | LCount: -2 | RDir: CCW | RCount: -4
+
+9022 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+9143 : LDir: CW | LCount: -3 | RDir: CCW | RCount: -8
+
+9195 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+9311 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -8
+
+9364 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+9513 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -9
+
+9563 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+9680 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -6
+
+9730 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+9867 : LDir: CCW | LCount: -7 | RDir: CW | RCount: -1
+
+9922 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10029 : LDir: CCW | LCount: -2 | RDir: CCW | RCount: -1
+
+10108 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10215 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+10275 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10403 : LDir: CW | LCount: 6 | RDir: CW | RCount: 5
+
+10449 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10596 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+10649 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10759 : LDir: CW | LCount: 2 | RDir: CW | RCount: 5
+
+10835 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+10947 : LDir: CW | LCount: 7 | RDir: CW | RCount: 7
+
+10994 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+11118 : LDir: CW | LCount: 7 | RDir: CW | RCount: 7
+
+11197 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+11301 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+11377 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+11496 : LDir: CW | LCount: 7 | RDir: CW | RCount: 7
+
+11541 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+11685 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+11736 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+11861 : LDir: CW | LCount: 7 | RDir: CCW | RCount: 0
+
+11904 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12029 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -3
+
+12084 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12214 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+12267 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12393 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+12483 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12628 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+12687 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12778 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -9
+
+12837 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+12962 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -6
+
+13011 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+13123 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -8
+
+13176 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+13305 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -8
+
+13380 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+13482 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -8
+
+13560 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+13689 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -8
+
+13737 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+13861 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -9
+
+13918 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14027 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -8
+
+14108 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14207 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -8
+
+14287 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14390 : LDir: CCW | LCount: -3 | RDir: CW | RCount: 1
+
+14466 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14567 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 2
+
+14647 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14760 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+14809 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+14948 : LDir: CW | LCount: -3 | RDir: CW | RCount: 6
+
+15001 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+15116 : LDir: CW | LCount: -3 | RDir: CCW | RCount: 3
+
+15174 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+15303 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 6
+
+15351 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+15482 : LDir: CW | LCount: -2 | RDir: CW | RCount: 8
+
+15547 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+15682 : LDir: CCW | LCount: -8 | RDir: CW | RCount: 6
+
+15733 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+15864 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 8
+
+15909 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16046 : LDir: CW | LCount: -1 | RDir: CW | RCount: 9
+
+16098 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16203 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 7
+
+16257 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16388 : LDir: CCW | LCount: -1 | RDir: CW | RCount: 1
+
+16447 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16580 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+16637 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16771 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -4
+
+16829 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+16930 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+17010 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+17122 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -4
+
+17192 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+17295 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -6
+
+17351 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+17517 : LDir: CW | LCount: 8 | RDir: CW | RCount: -3
+
+17531 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+17661 : LDir: CW | LCount: 7 | RDir: CCW | RCount: -6
+
+17717 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+17863 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -9
+
+17913 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18026 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -6
+
+18077 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18221 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -8
+
+18267 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18395 : LDir: CCW | LCount: -6 | RDir: CCW | RCount: -8
+
+18448 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18566 : LDir: CCW | LCount: -1 | RDir:  | RCount: 0
+
+18640 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18767 : LDir: CW | LCount: -2 | RDir: CCW | RCount: -4
+
+18819 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+18954 : LDir: CW | LCount: -4 | RDir: CCW | RCount: -7
+
+19007 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+19111 : LDir: CCW | LCount: -6 | RDir: CCW | RCount: -8
+
+19164 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+19296 : LDir: CW | LCount: -6 | RDir: CW | RCount: -3
+
+19347 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+19477 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -6
+
+19523 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+19651 : LDir: CCW | LCount: -6 | RDir: CCW | RCount: -8
+
+19735 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+19838 : LDir: CCW | LCount: -1 | RDir: CCW | RCount: -1
+
+19901 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20036 : LDir: CW | LCount: 1 | RDir:  | RCount: 0
+
+20093 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20195 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -4
+
+20251 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20400 : LDir:  | LCount: 0 | RDir: CCW | RCount: -1
+
+20456 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20578 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -4
+
+20625 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20760 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -8
+
+20804 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+20935 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -9
+
+20983 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+21119 : LDir: CW | LCount: 7 | RDir: CW | RCount: -2
+
+21184 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+21292 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -3
+
+21343 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+21478 : LDir: CW | LCount: -2 | RDir: CW | RCount: 4
+
+21555 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+21669 : LDir:  | LCount: 0 | RDir: CW | RCount: 1
+
+21719 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+21822 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+21907 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22020 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 6
+
+22067 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22200 : LDir: CW | LCount: 0 | RDir: CW | RCount: 6
+
+22249 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22382 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 8
+
+22433 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22575 : LDir: CCW | LCount: -9 | RDir: CW | RCount: 8
+
+22626 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22759 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 8
+
+22813 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+22916 : LDir: CW | LCount: 2 | RDir: CW | RCount: 8
+
+22970 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+23097 : LDir: CW | LCount: 3 | RDir: CW | RCount: 2
+
+23154 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+23283 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+23335 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+23466 : LDir: CW | LCount: 5 | RDir: CW | RCount: 7
+
+23516 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+23645 : LDir: CW | LCount: 7 | RDir: CW | RCount: 8
+
+23723 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+23839 : LDir: CW | LCount: 6 | RDir: CW | RCount: 7
+
+23887 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24018 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+24067 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24204 : LDir: CW | LCount: 8 | RDir: CW | RCount: 7
+
+24262 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24373 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+24432 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24573 : LDir: CW | LCount: 8 | RDir: CW | RCount: 7
+
+24621 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24755 : LDir: CCW | LCount: -5 | RDir: CW | RCount: -1
+
+24809 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+24905 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+24988 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+25097 : LDir: CW | LCount: -1 | RDir: CCW | RCount: -6
+
+25152 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+25282 : LDir: CCW | LCount: -8 | RDir: CCW | RCount: -7
+
+25331 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+25460 : LDir: CCW | LCount: -6 | RDir: CCW | RCount: -6
+
+25537 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+25637 : LDir: CCW | LCount: -3 | RDir: CCW | RCount: -7
+
+25697 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+25833 : LDir: CW | LCount: -5 | RDir: CW | RCount: -3
+
+25883 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26006 : LDir: CW | LCount: 3 | RDir: CCW | RCount: -5
+
+26059 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26182 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -5
+
+26262 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26364 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+26445 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26572 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+26620 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26731 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+26815 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+26921 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -6
+
+26967 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+27095 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -8
+
+27175 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+27289 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -6
+
+27338 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+27469 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -8
+
+27515 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+27646 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 3
+
+27694 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+27816 : LDir:  | LCount: 0 | RDir: CW | RCount: 1
+
+27892 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28007 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+28059 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28205 : LDir: CCW | LCount: -5 | RDir: CW | RCount: 5
+
+28264 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28363 : LDir: CCW | LCount: -7 | RDir: CW | RCount: 7
+
+28445 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28555 : LDir: CW | LCount: -1 | RDir: CW | RCount: 8
+
+28604 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28748 : LDir: CCW | LCount: -6 | RDir: CW | RCount: 8
+
+28809 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+28919 : LDir: CCW | LCount: -9 | RDir: CW | RCount: 8
+
+28974 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+29109 : LDir: CW | LCount: 5 | RDir: CW | RCount: 7
+
+29155 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+29290 : LDir: CW | LCount: 1 | RDir: CW | RCount: 1
+
+29347 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+29479 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+29530 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+29662 : LDir: CW | LCount: 4 | RDir: CW | RCount: 7
+
+29708 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+29824 : LDir: CW | LCount: 6 | RDir: CW | RCount: 7
+
+29881 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30001 : LDir: CW | LCount: 6 | RDir: CW | RCount: 9
+
+30079 : S1: 0.00 cm | S2: 48.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30186 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+30249 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30370 : LDir: CW | LCount: 8 | RDir: CW | RCount: 7
+
+30423 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30549 : LDir: CW | LCount: 9 | RDir: CW | RCount: 8
+
+30614 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30744 : LDir: CCW | LCount: -1 | RDir: CCW | RCount: 0
+
+30791 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+30915 : LDir: CCW | LCount: -1 | RDir: CCW | RCount: -2
+
+30964 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+31111 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+31162 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+31295 : LDir: CCW | LCount: -2 | RDir: CW | RCount: -3
+
+31343 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+31467 : LDir: CCW | LCount: -6 | RDir: CW | RCount: -4
+
+31527 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+31660 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -6
+
+31709 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+31843 : LDir: CW | LCount: -7 | RDir: CCW | RCount: -6
+
+31888 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32015 : LDir: CCW | LCount: -7 | RDir: CCW | RCount: -6
+
+32059 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32191 : LDir: CCW | LCount: -6 | RDir: CCW | RCount: -8
+
+32255 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32364 : LDir: CW | LCount: 4 | RDir: CCW | RCount: -3
+
+32415 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32554 : LDir:  | LCount: 0 | RDir: CCW | RCount: -1
+
+32603 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32713 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+32803 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+32903 : LDir: CW | LCount: 6 | RDir: CCW | RCount: -6
+
+32980 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33108 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -8
+
+33157 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33270 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -9
+
+33321 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33453 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -3
+
+33509 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33662 : LDir: CCW | LCount: 7 | RDir: CW | RCount: -4
+
+33685 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33821 : LDir: CW | LCount: 8 | RDir: CCW | RCount: -6
+
+33868 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+33993 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -8
+
+34071 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34178 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -7
+
+34254 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34371 : LDir: CW | LCount: 7 | RDir: CW | RCount: -4
+
+34433 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34545 : LDir: CW | LCount: 9 | RDir: CCW | RCount: -4
+
+34590 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34719 : LDir: CW | LCount: 1 | RDir: CCW | RCount: -1
+
+34801 : S1: 0.00 cm | S2: 45.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+34907 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+34969 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35085 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+35158 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35266 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+35331 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35463 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+35523 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35634 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+35689 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35802 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+35857 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+35989 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+36042 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+36175 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+36225 : S1: 0.00 cm | S2: 47.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+36352 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+
+36404 : S1: 0.00 cm | S2: 46.00 cm | S3: 0.00 cm | S4: 0.00 cm
+
+36536 : LDir:  | LCount: 0 | RDir:  | RCount: 0
+

@@ -1,0 +1,85 @@
+1. get desired position (target marker defined by user)
+
+2. locate_self 
+	if there are markers nearby:
+		if no marker is the target marker:
+			use the closest marker as the current position 
+		else:
+			skip to step 4.
+	else:
+		not sure what to do here...
+		possible ideas: use memory (last seen marker, moves made since then)
+				wander_ until you see a marker (memory-less solution)
+
+3. path_plan_to_target marker 
+	A* or djikstra on topological map
+		use get_connected_markers
+	topological map will be provided by the programmer
+	assume all paths between topological locations are of equal weight
+
+4. path_follow
+	if target marker is not on screen:
+		identify visible marker furthest in planned path and assign to current marker
+		seek_next_marker		 
+	else:
+		seek_target_marker
+
+##########################################################################
+SEEKING SUB-ROUTINES (routines that can be used to navigate map with landmarks)
+
+seek_target_marker 
+	find_marker_center_orientation
+	set marker center as target pixel
+	seek_target_pixel
+
+
+seek_next_marker
+	*******only works with two markers that are connected on the topological map******
+	use current marker and direction to next marker to get target pixel on image edge
+		direction_to_connected_markers
+	seek target pixel
+
+
+seek_target_pixel 
+	get unit vector to pixel from image center
+	get angle between current heading direction (positive x direction from image center) and vector to pixel
+	if distance to target pixel is within threshold:
+		stop
+	else:
+		send differential drive signal to arduino to steer towards pixel
+
+
+wander_ (no map)
+	pick random integer (rand_int) from distribution with mean image_height/2 and standard deviation width/6
+	seek_target_pixel (width, rand_int)
+
+##########################################################################
+COMPUTATIONAL SUB-ROUTINES (routines that are used to compute variables)
+
+find_marker_center_orientation
+	identify marker center
+	identify marker orientation relative to positive x-axis (heading direction)
+	
+get_connected_markers
+	Define current marker
+	find markers connected to given marker
+
+direction_to_connected_markers
+	Define current marker
+	get_connected_markers
+	get direction to connected markers relative to current marker heading
+	find_marker_center_orientation (of current marker)
+	Get direction to connected markers relative to positive x-axis
+
+############################################################################
+MAPPING SUB ROUTINES (collecting info that can be used to build a map and solve visual odometry)
+
+Measure Marker-to-Marker Distance
+	if two markers are in view:
+		if two markers do not have 50 measurements of pixel distance:
+			identify markers
+			get pixel distance between markers 
+			store pixel distance value for marker key pair
+
+Wheel to Pixel distance 
+	

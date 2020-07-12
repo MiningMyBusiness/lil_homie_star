@@ -1,0 +1,7 @@
+Bedroom door marker id: 0
+Couch marker id: 1
+Printer marker id: 2
+Workbench marker id: 3
+Frontdoor marker id: 4
+Kitchen marker id: 5
+
